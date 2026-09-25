@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
@@ -134,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
