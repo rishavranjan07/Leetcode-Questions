@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
