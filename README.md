@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [1927-sum-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
+| [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
