@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0860-lemonade-change](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [1260-shift-2d-grid](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
