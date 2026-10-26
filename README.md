@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
