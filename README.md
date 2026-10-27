@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1927-sum-game) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
