@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
 | [1927-sum-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1927-sum-game) |
