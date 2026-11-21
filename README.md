@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1927-sum-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1927-sum-game) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
 | [1927-sum-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1927-sum-game) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
