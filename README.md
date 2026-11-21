@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
 | [1927-sum-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1927-sum-game) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
