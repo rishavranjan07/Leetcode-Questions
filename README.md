@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0051-n-queens](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
