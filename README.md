@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0061-rotate-list) |
 ## Math
 |  |
@@ -240,4 +241,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
