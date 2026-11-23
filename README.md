@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1927-sum-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [1260-shift-2d-grid](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
+| [1352-product-of-the-last-k-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
