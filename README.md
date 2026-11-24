@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
