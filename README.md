@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3731-find-missing-elements) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3934-smallest-unique-subarray](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Segment Tree
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 ## Combinatorics
 |  |
 | ------- |
@@ -265,4 +268,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
