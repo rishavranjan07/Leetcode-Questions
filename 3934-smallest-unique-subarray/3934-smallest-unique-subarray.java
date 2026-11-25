@@ -1,37 +1,49 @@
 class Solution {
     public int smallestUniqueSubarray(int[] nums) {
         int n = nums.length;
-        List<int[]> names = new ArrayList<>();  // names.get(k)[i] is equal for equal windows of length 2^k starting at i
-        names.add(nums);
-        for (int half = 1; 2 * half <= n; half *= 2) {  // blocks of 2, 4, 8, ... while they fit
-            long[] pairs = pairs(names.get(names.size() - 1), half);
-            long[] ids = Arrays.stream(pairs).sorted().distinct().toArray();  // a pair's number: its place among the different pairs
-            names.add(Arrays.stream(pairs).mapToInt(pair -> Arrays.binarySearch(ids, pair)).toArray());
-        }
+        final long MOD1 = 1000000007L;
+        final long MOD2 = 1000000009L;
+        final long BASE1 = 1000003L;
+        final long BASE2 = 1000033L;
 
-        int lo = 1, hi = n;  // the first length that works is in lo..hi
-        while (lo < hi) {
-            int mid = (lo + hi) / 2;
-            if (found(names, mid)) hi = mid;
-            else lo = mid + 1;
+        long[] h1 = new long[ n + 1 ], h2 = new long[n + 1];
+        long[] p1 = new long[ n + 1 ], p2 = new long[n + 1];
+
+        p1[0] = p2[0] = 1;
+
+        for( int i = 0; i < n; i++){
+            h1[i + 1] = (h1[i] * BASE1 + nums[i]) % MOD1;
+            h2[i + 1] = (h2[i] * BASE2 + nums[i]) % MOD2;
+
+            p1[i + 1] = p1[i] * BASE1 % MOD1;
+            p2[i + 1] = p2[i] * BASE2 % MOD2;
         }
-        return lo;
+        int lo = 1, hi = n, ans = n;
+
+        while(lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
+            if(hasUnique(nums, mid, h1, h2, p1, p2, MOD1, MOD2)) {
+                ans = mid;
+                hi = mid - 1;
+            }
+            else {
+                lo = mid + 1;
+            }
+        }
+        return ans;
     }
+    private boolean hasUnique(int[] nums, int len, long[] h1, long[] h2, long[] p1, long[] p2, long MOD1, long MOD2) {
+        Map<Long, Integer> cnt = new HashMap<>();
+        int n = nums.length;
 
-    private boolean found(List<int[]> names, int length) {  // is some window of this length unique?
-        int k = 31 - Integer.numberOfLeadingZeros(length);  // its first 2^k elements and its last 2^k cover it
-        long[] pairs = pairs(names.get(k), length - (1 << k));
-        Arrays.sort(pairs);  // equal pairs are neighbors now
-        for (int i = 0; i < pairs.length; i++)
-            if ((i == 0 || pairs[i - 1] != pairs[i]) && (i + 1 == pairs.length || pairs[i] != pairs[i + 1]))
-                return true;
+        for(int i = 0; i + len <= n; i++) {
+            long a = (h1[i + len] - h1[i] * p1[len] % MOD1 + MOD1) % MOD1;
+            long b = (h2[i + len] - h2[i] * p2[len] % MOD2 + MOD2) % MOD2;
+            long key = a * MOD2 + b;
+            cnt.put(key, cnt.getOrDefault(key, 0) + 1);
+        }
+        for(int v : cnt.values()) if (v == 1) return true;
+
         return false;
-    }
-
-    private long[] pairs(int[] block, int shift) {  // every (block[i], block[i + shift]) as one long
-        long[] pairs = new long[block.length - shift];
-        for (int i = shift; i < block.length; i++)
-            pairs[i - shift] = (long) block[i - shift] << 32 | block[i];
-        return pairs;
     }
 }
