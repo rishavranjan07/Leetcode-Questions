@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/1260-shift-2d-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
 ## Depth-First Search
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0051-n-queens) |
 ## Game Theory
 |  |
@@ -287,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3934-smallest-unique-subarray) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
