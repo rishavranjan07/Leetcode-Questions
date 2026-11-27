@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0079-word-search) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0455-assign-cookies) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 ## Design
 |  |
 | ------- |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rishavranjan07/Leetcode-Questions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
